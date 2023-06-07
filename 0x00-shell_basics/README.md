@@ -1,1 +1,3 @@
-script that prints the absolute path name of the current working directory
+Writing shell project
+0x00 shell basics
+using virtual machine
